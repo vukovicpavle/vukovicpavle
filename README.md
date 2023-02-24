@@ -4,10 +4,10 @@ I'm Pavle Vuković, a software engineer from Niš, Serbia. I'm currently working
 
 ## My work
 
-- [**vukovicpavle.github.io**](https://vukovicpavle.github.io): My personal website
+[**My personal website**](https://vukovicpavle.github.io)
 
-- **🍊 Orange**: API stuff
+**🍊 Orange** - API stuff
 
-- **🍋 Lemon**: Web stuff
+**🍋 Lemon** - Web stuff
 
-- **🍇 Grape**: Mobile stuff
+**🍇 Grape** - Mobile stuff
