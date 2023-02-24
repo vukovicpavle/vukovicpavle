@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**vukovicpavle/vukovicpavle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pavle Vuković, a software engineer from Niš, Serbia. I'm currently working as a software engineer at [**IT Centar**](https://www.itcentar.rs/). I'm passionate about software development, especially web development.
 
-Here are some ideas to get you started:
+## My repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**vukovicpavle.github.io**](vukovicpavle.github.io): My personal website
+
+- **hello**: A simple say hello package
+
+- **🍊 Orange**: API stuff
+
+- **🍋 Lemon**: Web stuff
+
+- **🍇 Grape**: Mobile stuff
