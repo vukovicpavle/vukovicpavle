@@ -6,8 +6,6 @@ I'm Pavle Vuković, a software engineer from Niš, Serbia. I'm currently working
 
 - [**vukovicpavle.github.io**](https://vukovicpavle.github.io): My personal website
 
-- **hello**: A simple say hello package
-
 - **🍊 Orange**: API stuff
 
 - **🍋 Lemon**: Web stuff
