@@ -4,7 +4,7 @@ I'm Pavle Vuković, a software engineer from Niš, Serbia. I'm currently working
 
 ## My repositories
 
-- [**vukovicpavle.github.io**](vukovicpavle.github.io): My personal website
+- [**vukovicpavle.github.io**](https://vukovicpavle.github.io): My personal website
 
 - **hello**: A simple say hello package
 
