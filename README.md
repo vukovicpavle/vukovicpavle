@@ -2,7 +2,7 @@
 
 I'm Pavle Vuković, a software engineer from my hometown. Jack of all trades, master of none, still got the spirit.
 
-## Some things I'm working on
+### Some things I'm working on
 
 [**My personal website**](https://vukovicpavle.github.io)
 
