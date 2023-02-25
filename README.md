@@ -1,15 +1,15 @@
-# Hi there 👋
+### Hello there 👋
 
 I'm Pavle Vuković, a software engineer from my hometown. Jack of all trades, master of none, still got the spirit.
 
-## My work
+## Some things I'm working on
 
 [**My personal website**](https://vukovicpavle.github.io)
 
-**🍊 Orange** - Express, MongoDB, API things
+**🍊** - Express, MongoDB, API things
 
-**🍋 Lemon** - React stuff
+**🍋** - React stuff
 
-**🍇 Grape** - React Native doings
+**🍇** - React Native doings
 
-**🍅 Tomato** - All the other JS and TS utils and helpers
+**🍅** - All the other JS and TS utils and helpers
