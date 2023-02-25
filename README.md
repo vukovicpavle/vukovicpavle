@@ -10,6 +10,6 @@ I'm Pavle Vuković, a software engineer from my hometown. Jack of some trades, m
 
 **🍋** - React stuff
 
-**🍇** - React Native doings
+**🥥** - React Native doings
 
 **🍅** - All the other JS and TS utils and helpers
