@@ -4,12 +4,12 @@ I'm Pavle Vuković, a software engineer from my hometown. Jack of some trades, m
 
 ### Some things I'm working on
 
-[**My personal website**](https://vukovicpavle.github.io)
+[**My website**](https://vukovicpavle.github.io)
 
-**🍊** - Express, MongoDB, API things
+Express, MongoDB, API things
 
-**🍋** - React stuff
+React stuff
 
-**🥥** - React Native doings
+React Native doings
 
-**🍅** - All the other JS and TS utils and helpers
+All the other JS and TS utils and helpers
